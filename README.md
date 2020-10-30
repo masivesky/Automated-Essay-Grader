@@ -1,2 +1,2 @@
-# Automated-Essay-Grader
-Grades essay automatically using Machine Learning and Natural Language Processing
+# AEG
+Developed an Automated Essay Grader using Python 
